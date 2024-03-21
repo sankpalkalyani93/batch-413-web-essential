@@ -1,0 +1,43 @@
+C:\Users\Kalyani Dinde>cd..
+
+C:\Users>cd..
+
+C:\>cd KalyaniDinde
+
+C:\KalyaniDinde>cd PartTimeBatchesMay2023
+
+C:\KalyaniDinde\PartTimeBatchesMay2023>cd Batch-413
+
+C:\KalyaniDinde\PartTimeBatchesMay2023\Batch-413>cd html-codes
+
+C:\KalyaniDinde\PartTimeBatchesMay2023\Batch-413\html-codes>git init
+Initialized empty Git repository in C:/KalyaniDinde/PartTimeBatchesMay2023/Batch-413/html-codes/.git/
+
+C:\KalyaniDinde\PartTimeBatchesMay2023\Batch-413\html-codes>git add .
+
+C:\KalyaniDinde\PartTimeBatchesMay2023\Batch-413\html-codes>git commit -m "first commit"
+[master (root-commit) d853948] first commit
+ 5 files changed, 113 insertions(+)
+ create mode 100644 anchor_tag_demo.html
+ create mode 100644 div_span_demo.html
+ create mode 100644 formatting_tags_demo.html
+ create mode 100644 heading_paragraph_tag_demo.html
+ create mode 100644 hello_world.html
+
+C:\KalyaniDinde\PartTimeBatchesMay2023\Batch-413\html-codes>git branch -M main
+
+C:\KalyaniDinde\PartTimeBatchesMay2023\Batch-413\html-codes>git remote add origin https://github.com/sankpalkalyani93/batch-413-web-essential.git
+
+C:\KalyaniDinde\PartTimeBatchesMay2023\Batch-413\html-codes>git push -u origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 1.88 KiB | 1.88 MiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/sankpalkalyani93/batch-413-web-essential.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\KalyaniDinde\PartTimeBatchesMay2023\Batch-413\html-codes>
